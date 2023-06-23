@@ -1,3 +1,2 @@
 # AtualizaERP
-Atualiza Sistema Inicio
-Versao 1.0.3
+Atualiza Sistema Inicio: Versao 1.0.3
